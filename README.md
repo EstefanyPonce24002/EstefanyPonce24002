@@ -20,10 +20,6 @@
 - 💫 Me apasiona la tecnología, el análisis de datos y la automatización de procesos.
 - ⚡ Mi meta es desarrollar mis habilidades a través de la práctica constante, con el fin de fortalecer mi capacidad para desarrollar soluciones innovadoras y eficicentes.
 - 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
-- ✍️ En mi tiempo libre me dedico a repasar y practicar lo aprendido en la semana, pasar tiempo con mi familia y mi mascotas.
-- 💬 Puedes compartir tu conocimiento conmigo y yo compartiré el mio contigo.
-- 💻 Me gustaría aportar a proyectos que me brinden nuevos conocimientos y experiencia.
-- 💡 ¡Estoy abierto a comentarios y sugerencias!
 
 
 ## 💻 Lenguajes
