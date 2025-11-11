@@ -45,6 +45,7 @@
 
 ## 🛠️ Herramientas
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
@@ -64,10 +65,8 @@
 <p align="left">
   <a href="https://github.com/EstefanyPonce24002">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" 
-      height="180px"
-      style="margin-right: 40px; border-radius: 10px;"
-    />
+  src="https://github-readme-stats.vercel.app/api?    username=EstefanyPonce24002&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800" 
+/>
   </a>
 
   ## ✅ Lenguajes mas usados
