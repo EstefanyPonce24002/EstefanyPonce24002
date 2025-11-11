@@ -55,7 +55,6 @@
 <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
   <img alt="SQL Developer" src="https://img.shields.io/badge/SQL%20Developer-%23F80000.svg?style=flat&logo=oracle&logoColor=white">
 </a>
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 <a href="https://www.jenkins.io/" target="_blank">
