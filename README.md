@@ -62,12 +62,9 @@
 </a>
 
 ## 📊 Mi actividad 
-<p align="left">
-  <a href="https://github.com/EstefanyPonce24002">
-    <img 
-  src="https://github-readme-stats.vercel.app/api?    username=EstefanyPonce24002&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800" 
-/>
-  </a>
+<p align="left"> <a href="https://github.com/EstefanyPonce24002"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" height="180px" style="margin-right: 40px; border-radius: 10px;" /> 
+</a>
 
   ## ✅ Lenguajes mas usados
   <a href="https://github.com/EstefanyPonce24002">
