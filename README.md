@@ -68,14 +68,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EstefanyPonce24002&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstefanyPonce24002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-  ## ✅ Lenguajes mas usados
-  <a href="https://github.com/EstefanyPonce24002">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstefanyPonce24002&theme=tokyonight&line_height=40&hide=css&layout=compact" 
-      height="180px"
-      style="border-radius: 10px;"
-    />
-  </a>
-</p>
