@@ -63,12 +63,6 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
 </a>
 
-## 📊 Mi actividad 
-<p align="left"> <a href="https://github.com/EstefanyPonce24002"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" 
-    height="180px" style="margin-right: 40px; border-radius: 10px;" 
-    /> 
-</a>
 
 ## 📊 Mi Actividad:
 ![](https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
