@@ -63,8 +63,3 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
 </a>
 
-
-## 📊 Mi Actividad:
-![](https://github-readme-stats.vercel.app/api?username=EstefanyPonce24002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EstefanyPonce24002&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstefanyPonce24002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
